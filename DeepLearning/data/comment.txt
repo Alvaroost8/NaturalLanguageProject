@@ -1,1 +1,1 @@
-The word embeddings can not be uploaded as they are too heavy even zipped.
+The word embeddings cannot be uploaded as they are too heavy even zipped.
